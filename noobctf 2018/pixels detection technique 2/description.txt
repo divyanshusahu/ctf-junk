@@ -1,0 +1,3 @@
+Is the above image is whole white!!! REMEMBER there are many shades of white exists......
+
+Flag Format: CTF{some_flag}

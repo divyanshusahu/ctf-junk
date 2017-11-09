@@ -1,0 +1,3 @@
+We all love blue color!!! BUT there are many shades of blue....
+
+Flag Format: CTF{some_flag}
