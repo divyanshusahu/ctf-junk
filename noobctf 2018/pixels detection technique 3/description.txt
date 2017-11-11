@@ -1,1 +1,3 @@
 Same as previous question!!!!
+
+Flag Format: CTF{some_flag}
