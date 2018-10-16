@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BACKDOOR FLAG</title>
+	<link href="index.css" rel="stylesheet">
+</head>
+<body>
+	<div id="main">
+		<div id="bar" class="btn-group">
+		<button id="barsha256" class="bar">SHA256</button>
+		<button id="barbase64" class="bar">Base64</button>
+		</div>
+		<div id="sha256">
+			<div id="heading"><h3>Encode string using SHA256 algorithm</h3></div>
+			<br>
+			<div id="challenge">
+				<label><b>Your Input</b></label><br>
+				<input id="inputsha256" type="text" class="source"><br><br>
+				<label><b>Encoded string</b></label><br>
+				<input id="answersha256" type="text" class="source"><br>
+				<button id="buttonsha256" class="btn btn-primary">ENCODE</button>
+			</div>
+		</div>
+		<div id="base64">
+			<h3>Encode/Decode base64</h3><br>
+			<label><b>Base64 encoded string</b></label><br>
+			<textarea id="inputbase64" class="source"></textarea><br>
+			<button id="buttonb64d" class="btn btn-primary">DECODE</button><br><br>
+			<label><b>Base64 decoded string</b></label><br>
+			<textarea id="answerbase64" class="source"></textarea><br>
+			<button id="buttonb64e" class="btn btn-primary">ENCODE</button>
+		</div>
+	</div>
+	<script rel="text/javascript" src="index.js"></script>
+</body>
+</html>

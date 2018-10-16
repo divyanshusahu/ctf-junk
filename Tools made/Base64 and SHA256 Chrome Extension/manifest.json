@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "CTF TOOLS",
+  "description": "ENCODER/DECODER",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Useful CTF encoder/decoder"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
