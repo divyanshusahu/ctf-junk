@@ -44,13 +44,14 @@ def scores(decodedString) :
 
 g = open('4-decoded.txt','a')
 f = open('4.txt','r')
+
 for lines in f.readlines() :
 	encodedString = lines.rstrip().decode('hex')
 	maxScore = 0
 	actualString = ''
 	for key in range(256) :
 		decodedString = singleByteKeyXor(encodedString,chr(key))
-		score = scores(decodedString)
+		score = scores(decodedString.lower())
 		if score > maxScore :
 			maxScore = score
 			actualString = decodedString.encode('hex')
@@ -66,7 +67,7 @@ for lines in f.readlines() :
 	line = lines.rstrip()
 	score = scores(line.decode('hex'))
 	if score > curMaxScore :
-		curMaxScore = scores
+		curMaxScore = score
 		curBestStr = line.decode('hex')
 
 print curBestStr

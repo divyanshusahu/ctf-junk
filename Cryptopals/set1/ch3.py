@@ -50,7 +50,7 @@ actualKey = ''
 
 for key in range(256) :
 	decodedString = singleByteKeyXor(string,chr(key))
-	score = scores(decodedString)
+	score = scores(decodedString.lower())
 	if score > maxScore :
 		maxScore = score
 		actualKey = chr(key)
