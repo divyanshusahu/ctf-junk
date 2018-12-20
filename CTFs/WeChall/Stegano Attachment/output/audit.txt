@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Dec 19 12:37:14 2018
+Invocation: foremost attachment.php.jpeg 
+Output directory: /home/divyanshu/Desktop/CTF-Stuffs/CTFs/WeChall/Stegano Attachment/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: attachment.php.jpeg
+Start: Wed Dec 19 12:37:14 2018
+Length: 19 KB (20364 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      19 KB 	          0 	 
+1:	00000039.zip 	      135 B 	      20230 	 
+Finish: Wed Dec 19 12:37:14 2018
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Dec 19 12:37:14 2018
