@@ -1,0 +1,6 @@
+level0: bitwarrior
+level1 : LameStartup
+level2: HiddenIsConfig
+level3: RepeatingHistory
+level4: AndIknowchown
+level5: OhRightThePerms
