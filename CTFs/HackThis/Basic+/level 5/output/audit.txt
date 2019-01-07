@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Jan  1 22:29:09 2019
+Invocation: foremost b5.jpg 
+Output directory: /home/divyanshu/Desktop/CTF-Stuffs/CTFs/HackThis/Basic+/level 5/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: b5.jpg
+Start: Tue Jan  1 22:29:09 2019
+Length: 42 KB (43704 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      42 KB 	          0 	 
+1:	00000085.zip 	      142 B 	      43563 	 
+Finish: Tue Jan  1 22:29:09 2019
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Tue Jan  1 22:29:09 2019

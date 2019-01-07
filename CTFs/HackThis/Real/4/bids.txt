@@ -1,0 +1,9 @@
+3	12	Plate	£11.17
+1	22	Sony Erricson	£55
+16	2	Ancient Mirror	£1756.01
+35	2	Old Head	£171
+1	7	5 bed, house	£325001
+1	6	Plane (model)	£5
+34	35	Stereo System	£150
+31	11	Dr Pepper 3ltr RARE	£1.32
+30	3	Laser Pen (possible fire	£200
