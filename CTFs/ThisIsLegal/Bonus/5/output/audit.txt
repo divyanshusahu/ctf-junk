@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Jan  5 15:38:15 2019
+Invocation: foremost bonus5.jpg 
+Output directory: /home/divyanshu/Desktop/CTF-Stuffs/CTFs/ThisIsLegal/Bonus/5/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: bonus5.jpg
+Start: Sat Jan  5 15:38:15 2019
+Length: 19 KB (20142 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      10 KB 	          0 	 
+1:	00000020.rar 	       9 KB 	      10635 	 
+Finish: Sat Jan  5 15:38:15 2019
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+rar:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Jan  5 15:38:15 2019
