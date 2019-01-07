@@ -1,0 +1,2533 @@
+
+/*
+      hacker : /n./ [Mot anglais, traduction littérale : fabricant de haches]
+
+1. Une personne qui adore explorer les détails des systèmes et découvrir comment augmenter leurs capacités, à l'opposé des utilisateurs qui préfèrent n'apprendre que le minimum nécessaire.
+2. Une personne qui programme avec enthousiasme (voire obsession) et qui apprécie plus la pratique que la théorie.
+3. Une personne capable d'apprécier.
+4. Une personne bonne et rapide en programmation.
+5. Un expert avec un programme en particulier travaillant fréquemment avec ou dessus
+6. Un expert et enthousiaste à tout et n'importe quoi.
+7. Une personne qui aime se donner des défis en résolvant des problèmes qui lui permettent de dépasser ses limites.
+8. Petit malin qui essaye de découvrir des infos a caractère sensible en pénétrant a gauche et a droite.
+
+Le terme 'hacker' tend aussi a connoter l'appartenance à une "communauté" de personnes dont les liens sont définis par le réseau Internet .Cela implique aussi l'appartenance de cette personne a une volonté du respect de l'étique des hackers {hacker ethic}.Il est préférable d'être considéré comme un hacker plutôt que de se proclamer. Les Hackers se considèrent comme une élite et accueillent donc chaleureusement les nouveaux condisciples. C'est ainsi qu'existe un certain sentiment d'auto-satisfaction chez celui qui se fera identifier comme un hacker .
+
+source : http://www.chez.com/keep/KoM
+
+LES TUTORIAUX - comment devenir un hacker
+
+
+Pourquoi ce texte?
+Bon on m'a souvent demandé "dAs, j'ai lu tes tutoriaux et ils sont géniaux et
+moi aussi je voudrais devenir hacker, on fait comment?". Bien sûr il n'y a pas
+de tutoriel qui vous apprendra à devenir hacker, mais voilà qui vous fera être
+hacker dans l'âme et plus lorsque vous aurez assimillé toute les techniques,
+mais je vous préviens, le chemin est très long mais un jour p'tiot tu deviendras
+grand :]
+
+Qu'est-ce qu'un hacker?
+Presques tous les journaux que je lis contiennent un certain nombre de
+définitions du terme "hacker'', qui sont toutes liées à l'aptitude technique et
+au plaisir pris à résoudre des problèmes et à dépasser des limites arbitraires.
+Mais bon, j'aimerais bien améliorer cette definitions plus que sommaire.
+Il y a toute une communauté, avec sa propre histoire et sa culture, de
+programmeurs expérimentés et de spécialistes des réseaux, leur histoire commence
+au balbutiement de l'ARPAnet (euh, pour faire plus simple, c'est Internet
+maintenant =). Les membres de cette culture ont créé le mot ``hacker''. Ce sont
+des hackers qui ont créé l'Internet malgré tout ce qui est dit sur leur
+compte... Ce sont des hackers qui ont fait d'Unix ce qu'il est de nos jours. Ce
+sont des hackers qui font tourner tout Internet.
+Si vous faites partie de cette culture, si vous y avez contribué et si d'autres
+personnes qui en font partie savent qui vous êtes et vous considèrent comme un
+hacker, alors vous êtes un hacker.
+Bon, il y a aussi ceux qui se disent "hackers'' et qui prennent leur pied en
+s'introduisant à distance dans les systèmes informatiques et en piratant tout ce
+qui passe. Ce sont des crashers et en générale les vrais hackers haïssent les
+crashers. Bon, il y a bon nombre de crashers possédant les connaissances des
+meilleurs hackers (élites), mais eux ont plutôt choisit ce que je dirais le côté
+obscur de la force :]. Malheureusement, de nombreux journalistes se sont laissé
+abuser et utilisent le mot "hacker'' quand ils devraient utiliser le mot
+"crasher''. Et bien sûr cela est assez irritant...
+La différence fondamentale est la suivante: les hackers construisent des choses,
+les crackers les cassent.
+Si vous voulez devenir un hacker, alors continuez cette lecture. Si vous voulez
+devenir un crasher, dégage d'ici et oublie pas d'emmener ton exemplaire du
+lamerizer avant de partir. Car c'est vrai qu'en général j'ai remarqué que les
+newbies étaient des hackers débutants, et les lamers des crashers débutants.
+
+L'attitude des hackers
+Les hackers aident à résoudre les problèmes et croient en la liberté. Adopter
+cette attitude est déjà un bon point dans l'apprentissage. Mais bon, c'est bien
+beau d'adopter cette attitude, mais si vous n'y croyais pas ça ne sert à rien
+car il faut y croire pour avoir la motivation nécessaire pour devenir et être
+hacker. Donc, pour devenir un hacker, répétez les phrases suivantes jusqu'à y
+croire réellement:
+1. Le monde est plein de problèmes fascinants qui n'attendent que d'être résolus
+(lol, j'entends déjà me dire "ouais du style lamerizer, je ne suis qu'un
+assoiffé de connaissance", arf, je ne vous dit pas de sortir ça en salon, mais
+d'y croire vraiment!). Etre hacker est très amusant, c'est un fait, mais pour
+s'en amuser, il faut vraiment être extrèmement motivé et ressentir une sorte
+d'exitation à chaque essai de résolution de problème, et si cette pensée ne vous
+paraît pas naturelle, et bien il faudra qu'elle le devienne si vous voulez être
+hacker, sinon votre energie va se disperser dans d'autres choses et finalement
+vous ne maîtriserez jamais rien car vous ne vous serez pas assez investit.
+2. Personne ne devrait jamais avoir à résoudre le même problème deux fois.
+Partager vos informations doit devenir une obligation morale, tout cela pour que
+les autres hackers n'aient pas à rerésoudre le problème que vous avez résolu.
+3. La routine et l'ennui sont inacceptables.
+Résoudre les problèmes peut devenir ennuyeux, mais pour devenir un hacker, vous
+devez développer une telle passion que tout ennui deviendra impossible.
+4. Vive la liberté !
+Les hackers sont naturellement anti-autoritaristes. Les attitudes autoritaristes
+doivent être combattues partout où elles se trouvent, pourquoi, car elles vous
+empecherons de faire votre devoir sur le net. Les autoritaristes se nourrissent
+de censure et de secrets. Et ils se méfient de l'entraide mutuelle et du partage
+d'informations. Ce qui est tout à fait à l'opposé de la pensée du hacker qui
+developpera donc une hostilité envers cette censure. Certains hackers poussent
+le vice encore plus loin pour être de vrais anarchistes.
+5. L'attitude n'est pas un substitut à la compétence.
+Pour être un hacker, vous devez développer un certain nombre de ces attitudes.
+Mais cela seul ne suffira pas à faire de vous un hacker, car pour cela il faut
+de l'intelligence, de l'expérience, de la persévérance et beaucoup de travail.
+Par conséquent, vous devez apprendre à vous méfier des attitudes et à respecter
+les compétences, quelles qu'elles soient. Les hackers apprécient les compétences
+et les compétences dans les domaines exigeants maîtrisées par une élite sont
+particulièrement appréciées, et plus particulièrement celles qui nécessitent un
+esprit perçant et une grande concentration.
+
+Les compétences de base du hacker.
+Bon c'est cool, vous avez le style, maintenant il faut développer un ensemble
+minimum de compétences avant que l'idée n'effleure un autre hacker de vous
+accepter comme un des siens.
+1. Apprendre à programmer.
+C'est, évidemment, la compétence principale du hacker. Pour être hacker, il ne
+faut pas connaître qu'un seul langage de programmation, il faut tous les
+maîtriser. Il faut apprendre à penser à la programmation en termes généraux.
+Pour être un vrai hacker, il faut être arrivé au point où vous pouvez apprendre
+un nouveau langage en quelques jours, en faisant le rapport entre ce qui est
+écrit dans le manuel et vos propres connaissances.
+Je ne peux pas vous donner un cours sur "comment apprendre à programmer'', c'est
+quelque chose de très complexe et à vrai dire je ne suis vraiment pas doué dans
+ce domaine (ben oui je n'ai pas atteinds le stade, que je dirais suprème, de
+hacker, je me définirais plutôt comme étant newbie, ceci malgré toutes les
+connaissances que j'ai =).
+Apprendre à programmer, c'est comme apprendre à écrire correctement dans un
+langage humain. La meilleure façon d'y arriver, c'est de lire des trucs écrits
+par des maîtres, d'en écrire un peu, d'en lire beaucoup plus, d'en écrire un peu
+plus, etc... Et là vous finirez bien par y arriver à force de persévérance (ce
+que moi je n'ai jamais eu, et qui m'a empeché d'évoluer).
+2. Installer Linux et apprendre à s'en servir.
+Pour un débutant qui aspire à acquérir des compétences de hacker, l'action la
+plus importante est d'obtenir une copie de Linux, de l'installer sur sa machine
+personnelle, et de le faire tourner.
+Bien sûr, il y a d'autres systèmes d'exploitation dans le monde à part Unix. Le
+problème, c'est qu'ils sont distribués sous forme de binaires. Vous ne pouvez
+pas lire le code, et encore moins le modifier. Apprendre à hacker sur Windows ou
+sous MacOS, c'est comme apprendre à danser en étant plâtré des pieds à la tête
+(en fait c'est possible mais nettement plus dur et plus long). En plus, Unix est
+le système d'exploitation de l'Internet. On peut apprendre à utiliser l'Internet
+sans connaître Unix, mais on ne peut pas être un hacker de l'Internet sans le
+comprendre. C'est pour cette raison que la culture des hackers est à l'heure
+actuelles fortement centrée autour de Linux.
+3. Apprendre à utiliser Internet et à écrire en HTML.
+Le Web est le jouet des hackers, énorme et lumineux, même les politiciens
+admettent qu'il est en train de changer la face du monde. Rien que pour cette
+raison, vous devez apprendre à travailler avec le Web. Cela ne signifie pas
+seulement apprendre à utiliser un browser, mais aussi apprendre à écrire en
+HTML, le langage de balisage du Web. Si vous ne savez pas programmer, le fait
+d'écrire en HTML vous apprendra quelques habitudes mentales qui vous aideront à
+démarrer. Donc, faites-vous une home page pour commencer. Mais ce n'est pas
+seulement d'avoir une home page qui fera de vous un hacker, ça serait abusé
+quand même =). Le Web est plen de home pages. La plupart sont d'un intérêt
+absolument nul, parfois jolies à regarder mais nulles quand même (comme exemple,
+allez donc voir Hackside :).
+Pour être utile, votre page doit avoir du contenu. Elle doit être intéressante
+et utile pour les autres hackers. Cela nous conduit à notre sujet suivant...
+
+Les statuts dans la culture des hackers
+On obtient un statut ou une réputation non pas en dominant les autres, en étant
+beau, ou en possédant des choses que les autres désirent, mais en faisant des
+dons : de son temps, de sa créativité, du résultat de ses compétences.
+Il y a principalement cinq types de choses à faire pour être respecté par les
+hackers:
+1. Ecrire des logiciels libres.
+La première, la plus centrale et la plus traditionnelle est d'écrire des
+programmes dont les autres hackers pensent qu'ils sont utiles, et de faire don
+du code source pour que toute la communauté des hackers puisse les utiliser.
+2. Aider à tester et à débugger des logiciels libres.
+Il est également utile d'aider à débugger et à perfectionner les logiciels
+libres car c'est la phase de débuggage qui prend le plus de temps. C'est pour
+cela que les auteurs de logiciels libres savent que des bon béta-testeurs valent
+leur pesant d'or.
+Si vous êtes un débutant, essayez de trouver un programme en cours de
+développement qui vous intéresse et de devenir béta-testeur. C'est une
+progression naturelle que de commencer par aider à tester des programmes, puis
+d'aider à les débugger, puis d'aider à les modifier. Vous apprendrez beaucoup de
+cette façon, et les gens que vous avez aidé vous aideront plus tard.
+3. Publier des informations utiles.
+Une autre bonne chose est de réunir et de filtrer des informations utiles et
+intéressantes sous forme de pages Web ou de documents comme les FAQ (Foires Aux
+Questions) et de les rendre accessibles à tous.
+Les personnes qui maintiennent les FAQ techniques les plus importantes sont
+presque autant respectées que les auteurs de logiciels libres.
+4. Servir la culture des hackers elle-même.
+Pour finir, vous pouvez servir et propager la culture elle-même (par exemple, en
+écrivant une introduction précise sur comment devenir un hacker =). Ce n'est pas
+quelque chose qu'il vous sera possible de faire avant d'avoir été dans le bain
+pendant un certain temps et d'être devenu bien connu pour l'une des trois
+premières choses.
+La culture des hackers n'a pas de chefs, mais elle posséde ces héros et
+porte-parole. C'est en accomplissant beaucoup par soi même que vous pourrez
+peut-être en être un. Cependant il est très mal vu de se montrer comme le
+meilleur et d'afficher son ego surdimensionné. Il faut donc éviter de montrer
+ouvertement que l'on recherche à obtenir ce genre de célébrité. En effet, il
+faut rester modeste, si la reconnaissance doit venir, elle viendra d'elle-même.
+
+Inspiré d'un texte anglais de Eric S. Raymond
+
+      <input type="password" name="qsdgfdg" size="20" value="hacked"><br>
+    </td>
+  </tr>
+From: stevebo@onramp.net (Steve Silberberg)
+
+
+
+Newsgroups: alt.comedy.standup
+
+
+
+Subject: Hack Stand-Up Comedy FAQ - hack.txt [01/01]
+
+
+
+Date: Wed, 16 Dec 1998 18:40:33 GMT
+
+
+
+Message-ID: <758uot$r56$1@news.onramp.net>
+
+
+
+Summary: Summary of Hack Stand-Up Comedy
+
+
+
+Archive-Name: comedy-faq/hack
+
+
+
+Posting-Frequency: monthly
+
+
+
+Last-Modified: 12/1/98
+
+
+
+Url: http://rampages.onramp.net/~stevebo/faq.html
+
+
+
+
+
+
+
+                                  HACK FAQ
+
+
+
+
+
+
+
+THE COMPLETE GUIDE TO HACK STAND-UP COMEDY
+
+
+
+BY Steven Rosenthal
+
+
+
+
+
+
+
+THE    H   H    AAA   CCCCC  K   K
+
+
+
+       H   H   A   A  C      K  K
+
+
+
+       HHHHH   AAAAA  C      KKK
+
+
+
+       H   H   A   A  C      K  K
+
+
+
+       H   H   A   A  CCCCC  K   K   FAQ
+
+
+
+
+
+
+
+HACK (from the British word Hack-neyed) adj. Over used and thus cheapened,
+
+
+
+trite. (From THE AMERICAN COLLEGE DICTIONARY)
+
+
+
+
+
+
+
+Note (1): This list is written mostly for the benefit of new comics - not
+
+
+
+for the condemnation of seasoned acts. Just because you see an older comic
+
+
+
+doing some of these is no reason to start hurling tomatoes. A lot of this
+
+
+
+material became cliche' because of overexposure in the '80s, and any comic
+
+
+
+you see may have written it well before it became hack.
+
+
+
+
+
+
+
+Note (2): These guidelines may not apply in Britain. From what I
+
+
+
+understand, Europe is just now getting a stand-up boom like we Yanks had
+
+
+
+ten years ago. It is entirely possible that English audiences have not seen
+
+
+
+these topics a million times.
+
+
+
+---------------------------------------------------------------------------
+
+
+
+
+
+
+
+                                   INDEX
+
+
+
+
+
+
+
+  1. Things are different than other things
+
+
+
+       1. "L.A. is different than..."
+
+
+
+       2. "Men and Women are really different..."
+
+
+
+       3. "Cats are different than Dogs..."
+
+
+
+  2. Any Stereotypes in the Crowd Tonight?
+
+
+
+       1. "What's up with these 7-11 employees?"
+
+
+
+       2. "And I said 'Put down the Donut, officer'"
+
+
+
+       3. "Black people walk or talk or dance differently than White
+
+
+
+          people." (Then demonstrate)
+
+
+
+       4. "Now, folks... I have nothing against homosexuals..."
+
+
+
+       5. "I was in Alabama recently..."
+
+
+
+       6. "What would ROMEO AND JULIET be like in da hood?"
+
+
+
+       7. "Horror Movies wouldn't work if the characters were black!"
+
+
+
+  3. Did You Ever Notice That Observational Comedy is Getting a Little Old?
+
+
+
+       1. "I fly on airplanes a lot..."
+
+
+
+       2. "Bob Dylan/Michael McDonald/Michael Jackson sings funny."
+
+
+
+       3. "You can't hear what the guy's saying at the Drive through."
+
+
+
+       4. "What's up with these Remote Controls?"
+
+
+
+       5. "Do We Have Any Pot Smokers in the House?
+
+
+
+       6. "Anybody remember GILLIGAN'S ISLAND?"
+
+
+
+       7. "I saw a lotta construction on Highway Blah Blah..."
+
+
+
+       8. "You gotta be careful these days, lotta diseases out there..."
+
+
+
+       9. "Have you seen that commercial where blah blah blah?"
+
+
+
+      10. "Have you guys seen this nicotine patch?"
+
+
+
+  4. Topical Material Should Be Topical
+
+
+
+       1. "So Howard Taft is in the news again..."
+
+
+
+       2. "What's up with this Lorena Bobbit, huh?"
+
+
+
+  5. The Comic Tackle Box
+
+
+
+       1. "...and that's just the women!"
+
+
+
+       2. "What if O.J. Simpson sang the Brady Bunch theme?"
+
+
+
+       3. "I know what you're thinking. You're thinking that I'm the
+
+
+
+          illegitimate son of Mario Andretti and Fred Flinstone!"
+
+
+
+       4. "Am I going too fast for you sir?"
+
+
+
+       5. The invisible prop
+
+
+
+       6. The "list"
+
+
+
+       7. "... it's just me"
+
+
+
+       8. "Well folks, it's about time for me to get out of here..."
+
+
+
+  6. You Folks Like Impressions?
+
+
+
+       1. Jack Nicholson
+
+
+
+       2. Robert DeNiro
+
+
+
+       3. William Shatner
+
+
+
+       4. Elvis
+
+
+
+       5. Christopher Lloyd as "Reverend Jim" from TAXI
+
+
+
+       6. Others to stay away from
+
+
+
+       7. Celebrity Impersonations
+
+
+
+  7. "That Reunion Tower Sure Looks Like a Penis"
+
+
+
+  8. I'm Not Making These Stock Lines Up People!
+
+
+
+  9. How to Tell if a Topic will be Hack Before it is.
+
+
+
+ 10. Wait a Second... I'm a Hack!
+
+
+
+
+
+
+
+---------------------------------------------------------------------------
+
+
+
+
+
+
+
+Section 1: THINGS ARE DIFFERENT THAN OTHER THINGS
+
+
+
+
+
+
+
+1a "L.A. is different than..."
+
+
+
+
+
+
+
+A ton of comics move to Los Angeles to pursue a television or film career
+
+
+
+and write a lot of material based on the little differences between LA and
+
+
+
+their former place of living. The trouble is that comics have been doing
+
+
+
+this since the beginning of time and the chances that you'll have a
+
+
+
+original observation are slim.
+
+
+
+
+
+
+
+1b "Men and women are really different..."
+
+
+
+
+
+
+
+No kidding. Volumes could be written about how comedians pit the genders
+
+
+
+against each other and turn the club into a kind of "Battle of the Sexes"
+
+
+
+with the losers generally being men. Typically, female comics will appeal
+
+
+
+to their sisters in the crowd for support in male-bashing ("Am I right,
+
+
+
+Ladies?") and males will hunt for approval among a usually shy male
+
+
+
+audience ("Oh, you guys wouldn't be saying that if you weren't here with
+
+
+
+your women! If it was just us guys it would be different!")
+
+
+
+
+
+
+
+Guys don't ask directions, girls take a long time to get ready for a date,
+
+
+
+married men are stupid and whipped, women take too long when shopping, men
+
+
+
+hog the remote control, men leave the toilet seat up, etc. etc. Aside from
+
+
+
+the fact that sweeping generalizations about gender are inherently sexist,
+
+
+
+these gender based topics have been covered a lot - brilliantly at times,
+
+
+
+but a lot nonetheless. Another typical angle on this is stating something
+
+
+
+that women generally do (ie. go to the bathroom together, dance together,
+
+
+
+compliment each other on their looks) and applying it to very masculine
+
+
+
+types for comic effect ("You never see two guys doing this! Hey Joe, your
+
+
+
+skin is looking lovely lately.")
+
+
+
+
+
+
+
+Don't say you weren't warned.
+
+
+
+
+
+
+
+1c "Cats are different than Dogs..."
+
+
+
+
+
+
+
+Andy Kindler's magazine article THE HACK'S HANDBOOK says that this bit
+
+
+
+boils down to "Dogs will do anything, cats don't care. Example: Cats won't
+
+
+
+fetch a bone. 'You fetch it. I'm getting something to eat. And take away
+
+
+
+this cheap shit and get me some real food.' Dogs will eat lard and Spam!"
+
+
+
+The whole pet thing has been a road comic's staple bit for years now. Don't
+
+
+
+do it.
+
+
+
+
+
+
+
+Section 2: ANY STEREOTYPES IN THE CROWD TONIGHT?
+
+
+
+
+
+
+
+2a "What's up with these 7-11 employees?"
+
+
+
+
+
+
+
+I know that Apu on THE SIMPSONS is funny, but that's as far as it goes.
+
+
+
+Mostly comics just do a poor characterization of a Middle Eastern/Hindu and
+
+
+
+throw in a couple of cheap shots about Slurpees or a dot on their forehead
+
+
+
+and leave it be.
+
+
+
+
+
+
+
+2b "And I said 'Put down the Donut, officer...'"
+
+
+
+
+
+
+
+Yeah, cops eat donuts a lot. Haven't heard that one before. Same goes for
+
+
+
+"Orientals can't drive.", "New Yorkers/taxi drivers are rude." or "Black
+
+
+
+men have large genitals" Whoopie.
+
+
+
+
+
+
+
+2c "Black people walk or talk or dance differently than White people."
+
+
+
+(Then demonstrate)
+
+
+
+
+
+
+
+Racists, back me up on this!
+
+
+
+
+
+
+
+2d "Now, folks... I have nothing against homosexuals..."
+
+
+
+
+
+
+
+When comics deny their homophobia or racism before a joke, you can be sure
+
+
+
+that they are trying to soften the blow of one of the most homophobic or
+
+
+
+racist jokes you'll ever hear. "I have a lot of gay friends..." is usually
+
+
+
+followed with something extreme not unlike "But fags suck don't they? And
+
+
+
+they should all be put to death!"
+
+
+
+
+
+
+
+Airline stewards and the not-so-recent "Gays in the Military" debate have
+
+
+
+given comics a new way to avoid writing by merely doing their "really
+
+
+
+effeminate fag voice". Even though any homosexual male in the Marines could
+
+
+
+probably kill a stand-up comic instantly with his bare hands, audiences
+
+
+
+still laugh at the lame bit about the girlish soldier who likes to
+
+
+
+re-decorate and flirt with the rest of the troops. Don't do the "fag voice"
+
+
+
+unless it has a really good joke behind it, because otherwise you're
+
+
+
+getting the laugh at the minority's expense and they really don't deserve
+
+
+
+your scorn.
+
+
+
+
+
+
+
+2e "I was in Alabama recently..."
+
+
+
+
+
+
+
+And let me guess... hmmmm... were the people there stupid and inbred
+
+
+
+perhaps? The stupid incest Southerner joke was put to rest when Dennis
+
+
+
+Miller said, "There are people in Alabama who are their own fathers."
+
+
+
+That's it, it doesn't get any bigger or better than that.
+
+
+
+
+
+
+
+2f "What would ROMEO AND JULIET be like in da hood?" OR "Could you imagine
+
+
+
+if The President was Mexican?"
+
+
+
+
+
+
+
+Typically the pattern is: It wouldn't be that way if it was my ethnicity!
+
+
+
+Because if it was my ethnicity it would have a lot of stereotypes
+
+
+
+associated with my ethnic background! Stop this. It's an easy joke.
+
+
+
+
+
+
+
+2g "Horror Movies wouldn't work if the characters were black! Because they
+
+
+
+wouldn't peek into the bushes... they'd just run!"
+
+
+
+
+
+
+
+Not only is this the same pattern as above, but it's been stolen from Eddie
+
+
+
+Murphy who took it from Richard Pryor.
+
+
+
+
+
+
+
+Section 3: DID YOU EVER NOTICE THAT OBSERVATIONAL COMEDY IS GETTING A
+
+
+
+LITTLE OLD?
+
+
+
+
+
+
+
+Have you ever noticed, how a lot of stand up comedian's seem to say "have
+
+
+
+you ever noticed" all the time?
+
+
+
+
+
+
+
+Observational Comedy was pioneered by Carlin in the 70's and brought to
+
+
+
+life in the 80's, an era where no topic was too mundane and "the little
+
+
+
+things in life" became more appealing than "The Big Picture". In fact some
+
+
+
+topics were so trivial that comics had to feign hatred just to keep the
+
+
+
+sets interesting (as in: "You know what really pisses me off? Nail
+
+
+
+Clippers!")
+
+
+
+
+
+
+
+I won't go so far as to declare all observational comedy hack, but the
+
+
+
+passion has gone out of the love affair. And there are certainly a lot of
+
+
+
+"little things" that already have been noticed once too often. Like:
+
+
+
+
+
+
+
+3a "I fly on airplanes a lot..."
+
+
+
+
+
+
+
+Yes, I'll bet you do. Or you used to when there was more of a road to work.
+
+
+
+However, every other comedian in the world did too, and you all wrote bits
+
+
+
+on it. Bits on the safety devices, bits about not being allowed to smoke,
+
+
+
+bits on inept pilots, bits about what you'd do if the plane was going down,
+
+
+
+bits about the seat being a floatation device etc. etc.
+
+
+
+
+
+
+
+3b "Bob Dylan/Michael McDonald/Michael Jackson sings funny."
+
+
+
+
+
+
+
+No duh. Let's move on.
+
+
+
+
+
+
+
+3c "You can't hear what the guy's saying at the Drive through."
+
+
+
+
+
+
+
+Let me guess: So you just mumble back to them. That's original.
+
+
+
+
+
+
+
+3d "What's up with these Remote Controls?"
+
+
+
+
+
+
+
+"What's the use of the eject button?... Our parents in the old days had to
+
+
+
+get up and change it manually... Guys hog the remote... We can't just watch
+
+
+
+one channel nowadays..." Heard it.
+
+
+
+
+
+
+
+3e "Do we have any pot smokers in the house?"
+
+
+
+
+
+
+
+"I don't have a joke about that, I just wanted to see who I can hang with
+
+
+
+after the show!..." Pot jokes always turn into a reference about the
+
+
+
+munchies so stay away from that gag. Also, the one about pot being
+
+
+
+different from the other drugs ("There's no gang wars over pot, just pillow
+
+
+
+fights...") has been done.
+
+
+
+
+
+
+
+3f "Anybody remember GILLIGAN'S ISLAND?"
+
+
+
+
+
+
+
+Yes we do. And we don't know how could they get so lost on a three hour
+
+
+
+tour or how come the Professor could build so much stuff but he couldn't
+
+
+
+build a boat to leave with. It'll just remain one of the great mysteries of
+
+
+
+our time. However, since we're so aware of the dilemma, don't bring it up.
+
+
+
+
+
+
+
+3g "Saw a lot of construction on Highway Blah blah blah"
+
+
+
+
+
+
+
+This one's more typical of the Midwest I hear. A comic gets into town and
+
+
+
+asks where the big construction site is. Then he/she gets to relate by
+
+
+
+using his/her old jokes about the "Men Working" sign ("They should change
+
+
+
+the sign!") or the Slow/Stop sign ("That describes how they're working!").
+
+
+
+
+
+
+
+3h "You gotta be careful these days, lotta diseases out there..."
+
+
+
+
+
+
+
+"Remember when it was just STDs? Now herpes is like nothing!" or the old
+
+
+
+standby condom jokes "Who's NOT going to buy the larger condoms!", At the
+
+
+
+checkout line "Price check on extra small condoms", "I'm wearing one now!"
+
+
+
+and "I wear two condoms all the time and when I'm ready to have sex, I just
+
+
+
+take off one!"
+
+
+
+
+
+
+
+3i "Have you seen that commercial where blah blah blah?"
+
+
+
+
+
+
+
+THE HACK'S HANDBOOK calls commercials "The Hack Happy Hunting Grounds" and
+
+
+
+notes The Clapper, the "I've Fallen and I Can't Get Up", the "This is Your
+
+
+
+Brain on Drugs", and the "You can do anything while wearing these Tampons"
+
+
+
+as overdone. I'd like to add the Douche commercial ("Sometimes I don't feel
+
+
+
+so fresh"), the Psychic Friends, the Chia Pet, and any shyster lawyer who
+
+
+
+gets you a big settlement.
+
+
+
+
+
+
+
+3j "Have you guys seen this nicotine patch?"
+
+
+
+
+
+
+
+"Now, I'm up to three patches a day! I gotta start smoking to get off the
+
+
+
+patch!"
+
+
+
+
+
+
+
+Section 4: TOPICAL MATERIAL SHOULD BE TOPICAL
+
+
+
+
+
+
+
+4a "So Howard Taft is in the news again..."
+
+
+
+
+
+
+
+It's pretty clear that a topical comedian has to write more currently than
+
+
+
+others. Hey, that's the price you pay for the ease of having premises
+
+
+
+delivered to your doorstep every morning. There's nothing sadder than an
+
+
+
+outdated topical joke. Saying, "Anyone remember the LA riots?" is just as
+
+
+
+good as telling the audience "I haven't written much in the last three
+
+
+
+years."
+
+
+
+
+
+
+
+There's no good rule for determining a joke's shelf-life. Some large topics
+
+
+
+will be good for a year or two. Others will go out of date within days.
+
+
+
+Just stop patting yourself on the back for how great you think your joke is
+
+
+
+and think about whether the event would still be on the minds of the
+
+
+
+audience.
+
+
+
+
+
+
+
+4b "What's up with this Lorena Bobbit, huh?"
+
+
+
+
+
+
+
+One of Nostradamus's quatrains goes as follows:
+
+
+
+
+
+
+
+"And a woman named Bobbit shall strike at a man's center and there will be
+
+
+
+much mirth made."
+
+
+
+
+
+
+
+Okay, I was kidding (Please, no flames from the Nostradamus people). The
+
+
+
+truth is that Bobbit jokes swept like a runaway train through the club
+
+
+
+scene for the simple reason that you could turn the genders against each
+
+
+
+other with a topical bit that's also a dick joke. (One comic I saw actually
+
+
+
+made it a racial bit as well by saying "Why do all you white women always
+
+
+
+have to go cutting people's dicks off?!")
+
+
+
+
+
+
+
+But besides the fact that the topic is pretty hack to start with, it's
+
+
+
+clearly too old and too overdone to even touch now. Same goes for Tonya
+
+
+
+Harding, The Menendez Brothers, Pee-Wee Herman and probably Barney the
+
+
+
+Dinosaur.
+
+
+
+
+
+
+
+Section 5: THE COMIC TACKLEBOX
+
+
+
+
+
+
+
+5a "...and that's just the women!"
+
+
+
+
+
+
+
+The "Bait and Switch" is a classic comedy device that'll stay with us
+
+
+
+probably forever (for what else is comedy than setting up expectations and
+
+
+
+then switching gears against those expectations?) However, boil the device
+
+
+
+down to its bare bones and you get a joke that comics are starting to do to
+
+
+
+death. Set up a character that's really obscene and then say, "Okay Rabbi,
+
+
+
+calm down!" Describe a very masculine group and top it off with "...and
+
+
+
+that's just the women!" If you have one of these, make sure the gag is
+
+
+
+better hidden.
+
+
+
+
+
+
+
+5b "What if O.J. Simpson sang the Brady Bunch theme?"
+
+
+
+
+
+
+
+Nothing says, "My only comedy influence is MAD Magazine" like a lame parody
+
+
+
+of a beautiful song. Never mind that it kills. Songs always get a cheap
+
+
+
+laugh, and the lamer and more scatological the parody, the better the
+
+
+
+reaction. The truth is that song parodies haven't progressed a lot since
+
+
+
+you were in third grade (remember "Jingle Bells, Batman Smells, Robin laid
+
+
+
+an egg..."?) and you're appealing to the crowd with a juvenile device that
+
+
+
+every child flocks when they get tired of knock-knock jokes.
+
+
+
+
+
+
+
+But wait! Don't throw away your brand-new Ovation guitar on account of this
+
+
+
+FAQ. Music acts don't have to be hack. Songs are a good way to close
+
+
+
+(nothing like closing on a big performance thing) and original music or new
+
+
+
+takes on old styles can be very very funny if you can pull it off (I'm
+
+
+
+thinking of Steve Martin's take on the song his grandmother taught him).
+
+
+
+But just taking a popular hit and throwing a bunch of dick references in it
+
+
+
+is pretty lame.
+
+
+
+
+
+
+
+5c "I know what you're thinking. You're thinking that I'm the illegitimate
+
+
+
+son of Mario Andretti and Fred Flinstone!"
+
+
+
+
+
+
+
+Or any other two people. I think Judy Carter (or Gene Perret) says
+
+
+
+something about making your first joke about your appearance. However, this
+
+
+
+old gag about linking yourself to a celebrity or two is done quite a lot,
+
+
+
+and never really well. The only writing you have to do with this joke is to
+
+
+
+find people who look like you, and what good is that?
+
+
+
+
+
+
+
+5d "Am I going too fast for you sir?"
+
+
+
+
+
+
+
+A typical trick is to pick someone up front to turn the audience against by
+
+
+
+making the person look really stupid, either by pointing out their
+
+
+
+confusion or by explaining the last joke to them. I know of at least two
+
+
+
+comics who pick fun of the same seat at exactly the same time during their
+
+
+
+acts.
+
+
+
+
+
+
+
+THE HACK'S HANDBOOK also recommends asking the person their name and then
+
+
+
+repeating the question in sign language as if the person was deaf. If you
+
+
+
+truly have an idiot bothering you (not an uncommon experience) and you have
+
+
+
+an interesting way to point out such stupidity, then by all means do it.
+
+
+
+But don't slam somebody for the sole purpose of making you look smarter and
+
+
+
+don't just make fun of their speech.
+
+
+
+
+
+
+
+5e The Invisible Prop
+
+
+
+
+
+
+
+"So I'm wearing a beanie with a propeller on it while walking down the
+
+
+
+aisle of the grocery store..." Comic puts hands on imaginary cart, walks
+
+
+
+around the stage and makes propeller noises. Audience roars.
+
+
+
+
+
+
+
+This scenario illustrates the "Invisible Prop". There's no punch line.
+
+
+
+Nothing is clever about the bit. But people will laugh up a storm if you
+
+
+
+can illustrate your bit with second rate pantomime. Hack comics use this
+
+
+
+technique to bolster their humor void acts. Don't do it, even if you have
+
+
+
+some incredibly amazing sound effect you want to showcase.
+
+
+
+
+
+
+
+5f The "List"
+
+
+
+
+
+
+
+You burrito munching-no job-zit freak-retard-etc-etc-etc
+
+
+
+
+
+
+
+Is it funny to call someone a burrito muncher? Probably not. Is it funny to
+
+
+
+tell someone they have no job? Nahh. Is it funny when you call someone a
+
+
+
+zit freak? Nope. But string them all together, and hilarity ensues. The
+
+
+
+longer the list, the funnier it is! Not only is it an unfunny crutch, but
+
+
+
+it's hack. Rent "White Men Can't Jump" if you need proof.
+
+
+
+
+
+
+
+5g "... it's just me"
+
+
+
+
+
+
+
+Hey, does anyone like gay porn? Oh, so it's just me.
+
+
+
+
+
+
+
+Typical crutch guaranteed to get a laugh. Ask a rhetorical question to
+
+
+
+which nobody in their right mind would admit to. Then follow it up with,
+
+
+
+"It's just me". Oh I get it, the hack denigrated him/herself. Ha ha ha ha!
+
+
+
+Hacks often use this line, but it's a truly accomplished hack who can use
+
+
+
+it as a callback -- and believe me, there are plenty who do.
+
+
+
+
+
+
+
+5h "Did I say that one out loud?"
+
+
+
+
+
+
+
+Who said that? I can't believe I said that!
+
+
+
+
+
+
+
+Hack says an outrageous line. The line is delivered in such a way that it
+
+
+
+sounds like it was Ad-libbed. Hack follows it up with "Did I say that one
+
+
+
+out loud?". The audience thinks they've seen the hack says something s/he
+
+
+
+didn't really want to, when in fact, the line is cold, calculated, and
+
+
+
+precisely inserted in their routine.
+
+
+
+
+
+
+
+5i "Well folks, it's about time for me to get out of here..."
+
+
+
+
+
+
+
+It doesn't take much Show-Business savvy to realize that one should close
+
+
+
+big. That means saving your best joke, or most "Performance-heavy" joke for
+
+
+
+the last. However, a lot of comics see this as a time to break out all the
+
+
+
+bells and whistles (the props, the unicycle, the Elvis jumpsuit, the
+
+
+
+trained monkey act, etc. etc.) Don't rely on some big extravagant wacky
+
+
+
+thing to get an applause break to leave on. The audience came to the club
+
+
+
+to watch something humorous, not a rap song, a guitar solo, a balancing act
+
+
+
+or a sappy story about how your grandfather just died. You're a comic.
+
+
+
+Please close with something funny.
+
+
+
+
+
+
+
+Section 6: YOU FOLKS LIKE IMPRESSIONS?
+
+
+
+
+
+
+
+6a Jack Nicholson
+
+
+
+
+
+
+
+Please, please, please, do not do Jack Nicholson. Jack Nicholson is done so
+
+
+
+often and people have made fun of those comics who do him so much that even
+
+
+
+poking fun of the Nicholson impression is now a cliche'. Just stay away if
+
+
+
+you value your dignity.
+
+
+
+
+
+
+
+6b Robert DeNiro
+
+
+
+
+
+
+
+"You talking to me?" Yes, I am and you've almost as over done as Jack.
+
+
+
+
+
+
+
+6c William Shatner
+
+
+
+
+
+
+
+Every sketch show in the world does a Star Trek bit. Don't rehash it on
+
+
+
+stage. If a bit starts with the phrase "Captain's Log..." then you're
+
+
+
+starting off already with a 99 on the hack meter.
+
+
+
+
+
+
+
+6f. Elvis
+
+
+
+
+
+
+
+Hey, I can impersonate Elvis! Why don't I put him in a wacky situation,
+
+
+
+like bungi jumping, and sing the Flintstones song in his voice?
+
+
+
+
+
+
+
+6e Christopher Lloyd as "Reverend Jim" from TAXI
+
+
+
+
+
+
+
+I'm not sure why this is done so much, but it is. Perhaps it's an easy
+
+
+
+impression.
+
+
+
+
+
+
+
+6f Others to stay away from.
+
+
+
+
+
+
+
+Don Knotts, Louis Armstrong, Jimmy Stewart, Ronald Reagan, Ross Perot.
+
+
+
+'Nuff said.
+
+
+
+
+
+
+
+6g Celebrity Impersonaters.
+
+
+
+
+
+
+
+Don't dress up and act the part of your favorite comic! Besides the fact
+
+
+
+that you'll never be as funny as the original, what would you think of the
+
+
+
+person who impersonated you? Does that thought have the word "loser" in it?
+
+
+
+
+
+
+
+Section 7: "THAT REUNION TOWER SURE LOOKS LIKE A PENIS"
+
+
+
+
+
+
+
+When a hack comes to a new city on tour, most of their 'new' jokes about
+
+
+
+the city will have been done to death. You can be pretty sure that at least
+
+
+
+one comedian in Dallas, at some point in their illustrious career, will
+
+
+
+have noticed that Reunion Tower (already nicknamed the Dallas Phallus)
+
+
+
+looks like a penis.
+
+
+
+
+
+
+
+American comics visiting the UK find it necessary to do Sean Connery
+
+
+
+impressions. Everyone in Scotland can do a Sean Connery impression, and
+
+
+
+might even make a joke in the process, which most visiting comics don't
+
+
+
+bother to do.
+
+
+
+
+
+
+
+You don't have to shy away from doing a truly original take on some aspect
+
+
+
+of a new city, but the obvious stuff has been done much better by the
+
+
+
+locals than you can imagine.
+
+
+
+
+
+
+
+Section 8: I'M NOT MAKING THESE STOCK LINES UP PEOPLE!
+
+
+
+
+
+
+
+Some stock lines have been around since the age of vaudeville, yet still
+
+
+
+work because audiences haven't heard them. But again that doesn't mean you
+
+
+
+should do it just because it gets a yuk. The following are old lines in the
+
+
+
+public domain that are undeniably hack.
+
+
+
+
+
+
+
+   * (An overweight comic's opening) Let me move the mike stand so you can
+
+
+
+     see me better.
+
+
+
+   * (A waitress drops something) "Just put that anywhere." "Keep drinking
+
+
+
+     folks, because the more you drink the funnier the show gets."
+
+
+
+   * (point to the microphone) "There's a reason they don't give these
+
+
+
+     things out at the door, pal!"
+
+
+
+   * "Hey, I don't come to where you work and knock the gas pumps out of
+
+
+
+     your hands (or french fries, or dicks out of your mouth, etc.)!
+
+
+
+   * "Hey I remember my first beer!"
+
+
+
+   * "Where'd you learn to whisper? A rock concert? In a helicopter? Or
+
+
+
+     some other place where whispering wouldn't be very effective!"
+
+
+
+   * "How many of you rent Pornography?" (No one answers) "Yeah, a five
+
+
+
+     billion dollar a year industry and I'm the only one!"
+
+
+
+   * "I'm available for Children's Parties!" (Yeah, you and a thousand
+
+
+
+     other comics who think they're shocking.)
+
+
+
+   * "Excuse me, am I interrupting your conversation with my act?"
+
+
+
+
+
+
+
+SECTION 9: HOW TO TELL IF A TOPIC WILL BE HACK BEFORE IT IS
+
+
+
+
+
+
+
+Any news story which allows a hack comic to cover a controversial subject
+
+
+
+by saying "hey, I just saw this on the news..." will be done to death
+
+
+
+within two weeks.
+
+
+
+
+
+
+
+Look out for any news story dealing with genitalia (Viagra, the Lewinsky
+
+
+
+scandal,) gruesome murder (OJ, Dahmer,) bodily mutilation (Bobbitt,
+
+
+
+Harding/Kerrigan,) or any other taboo subject.
+
+
+
+
+
+
+
+Also, be on the lookout for innocuous news stories where the joke is
+
+
+
+obvious: Dan Quayle jokes were already rampant when the "potatoe" story
+
+
+
+broke.
+
+
+
+
+
+
+
+A good gauge of how soon a topic will be hack is to watch Leno, Letterman,
+
+
+
+and Conan's monologues the day after the story breaks. If one of them does
+
+
+
+a bit about it, the shelf-life is about two weeks. If two of them cover it,
+
+
+
+give it one week. If all three of them cover the story, it's already hack.
+
+
+
+
+
+
+
+"Wait, does this mean I can't cover any controversial news stories?" Of
+
+
+
+course not. Try the two-week rule: if it's a major news story, do the
+
+
+
+topical bit for two weeks, then drop it or sell it to a hack. This keeps
+
+
+
+your act fresh, keeps you writing, and makes it look like you just thought
+
+
+
+your stuff up.
+
+
+
+
+
+
+
+SECTION 10: WAIT A SECOND... I'M A HACK!
+
+
+
+
+
+
+
+Don't panic! There's hope for you yet. All the inventive comics I know
+
+
+
+started out doing hack material (I myself began with a Brady Bunch song, an
+
+
+
+inner child joke and a dream). When you start you don't know any better.
+
+
+
+Learn what you're doing wrong and keep writing until you find your voice.
+
+
+
+
+
+
+
+And don't fret if you have a really great joke about a topic that's a
+
+
+
+little shaky. Mike Welch (welch@ix.netcom.com) writes:
+
+
+
+
+
+
+
+"I feel that an accomplished writer can take on ANY subject, even a HACK
+
+
+
+one and do something brilliant with it...at least in theory." I agree. But
+
+
+
+the rule should be, if everybody's going to be talking about the same
+
+
+
+subject, you'd better make sure that your joke is brilliant.
+
+
+
+
+
+
+
+And that's what it's about, isn't it? I'm sure that most of you got into
+
+
+
+this business because you love the art (and if you're getting into it now
+
+
+
+for the money, then you've got another thing coming). Art is always
+
+
+
+reinventing itself and comedy is no exception ("Good Evening, Ladies and
+
+
+
+Germs!" used to be funny!)
+
+
+
+
+
+
+
+It's the next generation's responsibility to determine comedy's direction
+
+
+
+and I wish you all good luck in that endeavor. You've been a wonderful
+
+
+
+audience. Good night!
+
+
+
+---------------------------------------------------------------------------
+
+
+
+
+
+
+
+REFERENCES:
+
+
+
+
+
+
+
+"The Hack's Handbook" by Andy Kindler. NATIONAL LAMPOON February 1991 pp.
+
+
+
+34-36
+
+
+
+
+
+
+
+Many thanks goes out to:
+
+
+
+
+
+
+
+   * Kim Binstead (kimb@ling.dai.ed.ac.uk)
+
+
+
+   * Avi Liberman
+
+
+
+   * Sue Lyon (100433.2577@compuserve.com)
+
+
+
+   * Tim Mitchell (sic@bitstream.net)
+
+
+
+   * Andy Nulman (nulman@vir.com)
+
+
+
+   * Andy Rudge (andy@comedy.demon.co.uk)
+
+
+
+   * Chris Pentzell
+
+
+
+   * Arlo Stone
+
+
+
+   * Mike Welch (welch@ix.netcom.com)
+
+
+
+   * and Andy Kindler
+
+
+
+
+
+
+
+for all their help in putting this together.
+
+
+
+
+
+
+
+This FAQ is Copyright 1995-8 by Steven Rosenthal, and is made available as
+
+
+
+a service to the Internet community. It may not be sold in any medium,
+
+
+
+including electronic, CD-ROM, or database, packaged with any commercial
+
+
+
+product, or published in print, without the explicit, written permission of
+
+
+
+the author, Steven Rosenthal, and the FAQ maintainer, Steven J. Silberberg
+
+
+
+---------------------------------------------------------------------------
+
+
+
+(c) 1995-8 Steven Rosenthal stevenr@cinenet.net
+
+
+
+
+
+
+
+----------------
+
+
+
+Steve Silberberg (mailto:stevebo@onramp.net)
+
+
+
+Visit the Air Sickness Bag Museum at:
+
+
+
+http://www.airsicknessbags.com/
+
+
+
+FACT:  Buff Babes Dig Cut Dudes!
+
+
+
+
+
+
+
+ */
+
