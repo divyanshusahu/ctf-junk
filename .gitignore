@@ -5,3 +5,4 @@ CTFs/hxp CTF/Misc/
 .vscode
 CTFs/CSAW 365/Forensics/
 CTFs/HackThis/Forensic/
+*.pyc
