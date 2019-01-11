@@ -1,0 +1,24 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Jan 10 15:17:18 2019
+Invocation: foremost image2.jpeg 
+Output directory: /home/divyanshu/Desktop/CTF-Stuffs/CTFs/Challenge Land/Stegnography/2/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: image2.jpeg
+Start: Thu Jan 10 15:17:18 2019
+Length: 113 KB (116386 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      76 KB 	          0 	 
+1:	00000153.jpg 	      37 KB 	      78447 	 
+Finish: Thu Jan 10 15:17:18 2019
+
+2 FILES EXTRACTED
+	
+jpg:= 2
+------------------------------------------------------------------
+
+Foremost finished at Thu Jan 10 15:17:18 2019
