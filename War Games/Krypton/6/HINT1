@@ -1,0 +1,4 @@
+The 'random' generator has a limited number of bits, and is periodic.
+Entropy analysis and a good look at the bytes in a hex editor will help.
+
+There is a pattern!
