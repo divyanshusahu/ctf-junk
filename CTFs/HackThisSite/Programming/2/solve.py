@@ -42,3 +42,4 @@ headers = {"Referer": "https://www.hackthissite.org/missions/prog/2/"}
 r1 = requests.post(url, cookies=cookies, data=data, headers=headers)
 soup = BeautifulSoup(r1.text, "lxml")
 result = soup.find("td", {"class":"sitebuffer"})
+print result
