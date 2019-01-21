@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xar>
+ <toc>
+  <creation-time>2012-04-05T09:05:40</creation-time>
+  <checksum style="sha1">
+   <offset>0</offset>
+   <size>20</size>
+  </checksum>
+  <file id="1">
+   <data>
+    <length>1336</length>
+    <offset>20</offset>
+    <size>1323</size>
+    <encoding style="application/x-gzip"/>
+    <archived-checksum style="SHA1">42517023ad16bdf7400db6ae252a3786eddd7b76</archived-checksum>
+    <extracted-checksum style="SHA1">7105260dbd6aec536f72a42c9c01e89ab1b6a7d3</extracted-checksum>
+   </data>
+   <ctime>2012-04-05T09:05:38Z</ctime>
+   <mtime>2012-04-05T09:05:38Z</mtime>
+   <atime>2012-04-05T09:05:38Z</atime>
+   <group>oleg</group>
+   <gid>1000</gid>
+   <user>oleg</user>
+   <uid>1000</uid>
+   <mode>0664</mode>
+   <type>file</type>
+   <name>8</name>
+  </file>
+ </toc>
+</xar>
