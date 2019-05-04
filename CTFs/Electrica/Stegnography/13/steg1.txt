@@ -1,0 +1,4 @@
+Steganography is the art of hiding messages or files in other messages or files. Modern steganography is very complex and difficult to trace when combined with encryption. We will only be using simple steganographic methods in these challenges, but this by no means makes things simple.
+
+Your first example is a gentle introduction. The enclosed graphic file holds a message.
+
